@@ -1,4 +1,4 @@
-[Complete on Replit](https://replit.com/@whs-spring-2023/Midterm-1)
+[Complete on Replit](https://replit.com/@whs-spring-2023)
 
 1. Output your first and last name
 
