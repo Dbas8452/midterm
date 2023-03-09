@@ -1,5 +1,7 @@
 [Complete on Replit](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
+[Midterm Review](https://github.com/deandrawhitby/midterm/blob/main/midterm_review.jpg)
+
 1. Output your first and last name
 
 ```
